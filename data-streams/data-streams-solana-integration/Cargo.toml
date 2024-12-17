@@ -2,32 +2,32 @@
 resolver = "2"
 members = [
     # programs
-    "programs/verifier",
-    "programs/access-controller",
+    #"programs/verifier",
+    #"programs/access-controller",
 
     # examples
-    "examples/example-verify-onchain",
-    "examples/example-verify-offchain",
+    #"examples/example-verify-onchain",
+    #"examples/example-verify-offchain",
 
     # sdk
     "verify-sdk",
 
     # scripts
-    "scripts/add-access",
-    "scripts/create-account",
-    "scripts/initialize-access-controller",
-    "scripts/initialize-verifier",
-    "scripts/set-config",
-    "scripts/set-access-controller",
-    "scripts/remove-config",
-    "scripts/remove-access",
-    "scripts/list-access",
-    "scripts/transfer-ownership",
-    "scripts/accept-ownership",
-    "scripts/verify",
+    #"scripts/add-access",
+    #"scripts/create-account",
+    #"scripts/initialize-access-controller",
+    #"scripts/initialize-verifier",
+    #"scripts/set-config",
+    #"scripts/set-access-controller",
+    #"scripts/remove-config",
+    #"scripts/remove-access",
+    #"scripts/list-access",
+    #"scripts/transfer-ownership",
+    #"scripts/accept-ownership",
+    #"scripts/verify",
     
     # dependencies
-    "test_utils",
+    #"test_utils",
 ]
 
 [profile.release]
