@@ -1,4 +1,4 @@
-on:
+on:v
   pull_request:
     types: [opened, reopened, ready_for_review]
   issue_comment:
